@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "titleTeam": "frontend",
+      "workers": ["1", "2"]
+    },
+    {
+      "id": 1,
+      "titleTeam": "backend",
+      "workers": ["Aleksey Dubov", "Severov Anatoliy"]
+    },
+    {
+      "id": 2,
+      "titleTeam": "frontend",
+      "workers": ["1", "2"]
+    },
+    {
+      "id": 3,
+      "titleTeam": "backend",
+      "workers": ["Aleksey Dubov", "Severov Anatoliy"]
+    }
+  ]
+}
